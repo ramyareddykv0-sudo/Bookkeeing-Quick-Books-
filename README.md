@@ -20,7 +20,6 @@
 
 <h2>What is Quickbooks?</h2>
 <p>Quickbooks is accounting software. It helps small business to do billing easy.</p>
-<img src="https://via.placeholder.com/200" alt="quickbooks" width="200">
 
 <h2>Features</h2>
 <ol>
@@ -48,4 +47,4 @@
 <br>
 
 </body>
-</html># Bookkeeing-Quick-Books-
+</html>
